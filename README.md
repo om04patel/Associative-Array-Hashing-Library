@@ -46,4 +46,4 @@ The file format for loading data is simple, with lines using a tab character as 
 
 ### Building the Library
 
-To build the library, use the provided `makefile`:
+To build the library, use the provided `makefile`
