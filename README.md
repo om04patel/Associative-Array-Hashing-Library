@@ -1,7 +1,3 @@
-# Description
-
-This project involves developing an associative array tool backed by a hash table, implemented as a library. The library allows for efficient key/value storage and retrieval using various hashing and probing strategies. The project demonstrates principles of information hiding and efficient data structure design.
-
 # Associative Array Hashing Library
 
 This project involves building an associative array tool backed by a hash table, implemented as a library. The goal is to provide efficient key/value storage and retrieval using various hashing and probing strategies. This library demonstrates principles of information hiding and efficient data structure design.
